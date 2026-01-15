@@ -16,3 +16,4 @@
 <p>Sie werden nun automatisch zur Studie weitergeleitet. Vielen Dank für Ihre Teilnahme …</p>
 </body>
 </html>
+Add randomization redirect
