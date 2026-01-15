@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Studienteilnahme</title>
+  <title>Sie werden zur Studie weitergeleitet.</title>
   <script>
     const random = Math.random();
     if (random < 0.5) {
